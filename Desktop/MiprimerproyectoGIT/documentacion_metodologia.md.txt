@@ -1,0 +1,195 @@
+Documentación de Metodología Aplicada (Scrum)
+Proyecto: ProyectoGit
+Alumno: Salvador Reynoso Villaverde
+Materia: Metodologías Ágiles
+🌀 1. ¿Qué es Scrum y por qué se aplica a este proyecto?
+
+Scrum es una metodología ágil ideal para proyectos que requieren cambios constantes, comunicación continua y entregas rápidas.
+Mi proyecto se beneficia de Scrum porque permite:
+
+Mejor organización del trabajo
+
+Avances pequeños pero constantes
+
+Correcciones rápidas
+
+Claridad en prioridades
+
+👥 2. Roles Scrum dentro del proyecto
+
+Como soy un solo desarrollador, simulo todos los roles:
+
+• Product Owner (PO)
+
+Define qué necesita el proyecto y prioriza tareas.
+Rol desempeñado por: Salvador Reynoso.
+
+• Scrum Master
+
+Asegura que se sigan las reglas de Scrum y elimina impedimentos.
+Rol desempeñado por: Salvador Reynoso.
+
+• Development Team
+
+Desarrolla funciones del proyecto.
+Rol desempeñado por: Salvador Reynoso.
+
+📦 3. Entregables del proyecto
+
+Documento de requisitos
+
+Diagrama del sistema
+
+Código fuente del proyecto
+
+Pruebas realizadas
+
+Documentación final
+
+🕒 4. Fases y tiempos estimados (Sprints)
+
+Trabajo dividido en 3 Sprints, cada uno de 1 semana.
+
+🔹 Sprint 1 — Planificación y Diseño (1 semana)
+
+Entregables:
+
+Lista de requisitos
+
+Boceto del sistema
+
+Estructura inicial del repositorio
+
+🔹 Sprint 2 — Implementación inicial (1 semana)
+
+Entregables:
+
+Código básico funcionando
+
+Funciones principales del sistema
+
+Commits documentados
+
+🔹 Sprint 3 — Pruebas y Documentación (1 semana)
+
+Entregables:
+
+Corrección de errores
+
+Documentación técnica
+
+Versión final
+
+📊 5. Cómo Git apoyó al proyecto
+
+Git facilitó:
+
+Seguir la historia del proyecto mediante commits
+
+Registrar cada fase del desarrollo
+
+Separar la documentación de la rama principal
+
+Evitar confusiones gracias a ramas dedicadas
+
+✨ Conclusión
+
+Scrum permitió dividir el proyecto en etapas manejables y claras.
+Git permitió registrar cada avance y mantener orden en el repositorioDocumentación de Metodología Aplicada (Scrum)
+Proyecto: ProyectoGit
+Alumno: Salvador Reynoso Villaverde
+Materia: Metodologías Ágiles
+🌀 1. ¿Qué es Scrum y por qué se aplica a este proyecto?
+
+Scrum es una metodología ágil ideal para proyectos que requieren cambios constantes, comunicación continua y entregas rápidas.
+Mi proyecto se beneficia de Scrum porque permite:
+
+Mejor organización del trabajo
+
+Avances pequeños pero constantes
+
+Correcciones rápidas
+
+Claridad en prioridades
+
+👥 2. Roles Scrum dentro del proyecto
+
+Como soy un solo desarrollador, simulo todos los roles:
+
+• Product Owner (PO)
+
+Define qué necesita el proyecto y prioriza tareas.
+Rol desempeñado por: Salvador Reynoso.
+
+• Scrum Master
+
+Asegura que se sigan las reglas de Scrum y elimina impedimentos.
+Rol desempeñado por: Salvador Reynoso.
+
+• Development Team
+
+Desarrolla funciones del proyecto.
+Rol desempeñado por: Salvador Reynoso.
+
+📦 3. Entregables del proyecto
+
+Documento de requisitos
+
+Diagrama del sistema
+
+Código fuente del proyecto
+
+Pruebas realizadas
+
+Documentación final
+
+🕒 4. Fases y tiempos estimados (Sprints)
+
+Trabajo dividido en 3 Sprints, cada uno de 1 semana.
+
+🔹 Sprint 1 — Planificación y Diseño (1 semana)
+
+Entregables:
+
+Lista de requisitos
+
+Boceto del sistema
+
+Estructura inicial del repositorio
+
+🔹 Sprint 2 — Implementación inicial (1 semana)
+
+Entregables:
+
+Código básico funcionando
+
+Funciones principales del sistema
+
+Commits documentados
+
+🔹 Sprint 3 — Pruebas y Documentación (1 semana)
+
+Entregables:
+
+Corrección de errores
+
+Documentación técnica
+
+Versión final
+
+📊 5. Cómo Git apoyó al proyecto
+
+Git facilitó:
+
+Seguir la historia del proyecto mediante commits
+
+Registrar cada fase del desarrollo
+
+Separar la documentación de la rama principal
+
+Evitar confusiones gracias a ramas dedicadas
+
+✨ Conclusión
+
+Scrum permitió dividir el proyecto en etapas manejables y claras.
+Git permitió registrar cada avance y mantener orden en el repositorio
