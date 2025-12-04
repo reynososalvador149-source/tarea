@@ -1,0 +1,147 @@
+Título: Modelo Híbrido Cascada + Scrum para el Proyecto
+Autor: Salvador Reynoso
+Fecha: 2025
+
+# Modelo Híbrido: Cascada + Scrum
+
+En este documento se describe cómo aplicar un modelo híbrido que combina las metodologías Cascada y Scrum dentro del proyecto. La selección de estas metodologías se basa en la necesidad de lograr un proceso de desarrollo estructurado, pero al mismo tiempo flexible, permitiendo ajustes rápidos sin perder orden ni documentación.
+
+## 1. Justificación de la elección del modelo híbrido
+¿Por qué Cascada?
+
+La metodología Cascada aporta:
+
+✔ Una secuencia clara de etapas (análisis, diseño, construcción, pruebas).
+
+✔ Documentación formal desde el inicio.
+
+✔ Claridad en requisitos y objetivos antes de programar.
+
+✔ Facilita la revisión del profesor porque todo queda bien estructurado.
+
+¿Por qué Scrum?
+
+Scrum añade:
+
+✔ Flexibilidad ante cambios del proyecto.
+
+✔ Entregas rápidas mediante sprints cortos.
+
+✔ Retroalimentación continua.
+
+✔ Permite corregir errores antes de que avancen demasiado.
+
+¿Por qué combinarlas?
+
+Porque Cascada por sí sola es muy rígida, y Scrum por sí solo puede desordenarse si no existen bases fuertes.
+El modelo híbrido permite:
+
+Planificación y documentación clara (Cascada)
+
+Ejecución ágil y adaptable (Scrum)
+
+Es perfecto para proyectos escolares o pequeños equipos donde hay cambios constantes, pero el maestro exige estructura.
+
+## 2. Aportes específicos de cada metodología al proyecto
+Aportes de Cascada
+
+Define desde el inicio los requisitos del proyecto.
+
+Obliga a dejar claro el diseño antes de programar.
+
+Reduce riesgos en proyectos con alcance definido.
+
+Facilita construir diagramas, documentación y entregables formales.
+
+Aportes de Scrum
+
+Divide el trabajo en Sprints de 1 semana.
+
+Produce avances medibles constantemente.
+
+Permite mejorar el proyecto en cada iteración.
+
+Fomenta autoevaluación mediante reuniones rápidas (Daily y Review).
+
+## 3. Aplicación del Modelo Híbrido en el Proyecto
+Fase 1 — Análisis (Cascada)
+
+Identificación de requisitos funcionales y no funcionales.
+
+Planteamiento del problema y objetivos del sistema.
+
+Creación del documento de requerimientos.
+
+Fase 2 — Diseño (Cascada)
+
+Estructura del sistema.
+
+Diagramas (casos de uso, clases o flujo).
+
+Diseño de base de datos o estructura de archivos.
+
+## 4. Implementación en Sprints (Scrum)
+Sprint 1 (1 semana)
+
+Implementación inicial del módulo principal.
+
+Configuración del repositorio GitHub.
+
+Primera versión del código base.
+
+Revisión del Sprint y ajustes.
+
+Sprint 2 (1 semana)
+
+Desarrollo de funcionalidades secundarias.
+
+Integración con otros módulos.
+
+Pruebas unitarias básicas.
+
+Retroalimentación.
+
+Sprint 3 (1 semana)
+
+Corrección de errores.
+
+Optimización del diseño.
+
+Documentación final.
+
+## 5. Roles dentro del modelo híbrido
+Rol	Función
+Product Owner	Define y prioriza tareas (tú).
+Scrum Master	Asegura que se sigan los sprints.
+Equipo de desarrollo	Implementa, prueba y documenta.
+
+En un proyecto individual, todos los roles los desempeña el mismo estudiante, pero el flujo se respeta.
+
+## 6. Entregables del proyecto
+Entregables de Cascada
+
+Documento de requisitos
+
+Diagramas
+
+Diseño estructurado del sistema
+
+Entregables de Scrum
+
+Sprints completados
+
+Incrementos funcionales
+
+Lista de tareas completadas
+
+Retroalimentación por sprint
+
+## 7. Conclusión
+
+El modelo híbrido Cascada + Scrum permite combinar lo mejor de ambos mundos:
+
+✔ Orden, estructura y documentación
+
+✔ Flexibilidad, adaptación y entregas rápidas
+
+Este enfoque asegura que el proyecto avance de manera organizada sin perder la capacidad de responder a cambios, lo cual es ideal para proyectos académicos.
