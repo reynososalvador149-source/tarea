@@ -1,0 +1,132 @@
+Alumno: Salvador Reynoso Villaverde
+Materia: Gestión de Proyectos de Software
+
+🧩 Objetivo del documento
+
+Registrar los cambios más importantes del proyecto y relacionar cada commit con una actividad de la metodología Scrum, demostrando cómo Git funciona como herramienta de seguimiento y control del progreso.
+
+📝 1. Relación entre Git y Scrum
+
+En Scrum, el desarrollo se divide en entregas incrementales llamadas sprints.
+Cada commit realizado en Git representa:
+
+Un avance pequeño y verificable
+
+Un incremento del producto
+
+Un registro histórico del trabajo
+
+Evidencia del cumplimiento de una actividad del sprint
+
+Git permite visualizar qué se hizo, cuándo y por qué, lo que facilita la transparencia del proyecto.
+
+📌 2. Registro de commits y su relación con Scrum
+
+A continuación se muestran los commits reales del proyecto y cómo se vinculan con actividades Scrum.
+
+🔹 Commit 1: “Inicialización del proyecto y estructura base”
+
+🗂 Rama: main
+📅 Actividad Scrum: Sprint Planning
+
+Descripción:
+Se creó la estructura inicial del repositorio, carpetas base y archivo README.
+Corresponde al inicio del sprint, donde se define el producto mínimo viable.
+
+🔹 Commit 2: “Cambio realizado en rama master”
+
+🗂 Rama: master
+📅 Actividad Scrum: Desarrollo del Sprint (Incremento)
+
+Descripción:
+Se añadió contenido al archivo readme.
+Es un incremento pequeño pero funcional del proyecto.
+
+🔹 Commit 3: “Cambio desde desarrollo”
+
+🗂 Rama: desarrollo
+📅 Actividad Scrum: Implementación de historias de usuario
+
+Descripción:
+En esta rama se experimenta y se agregan nuevas funciones.
+Representa el trabajo del desarrollador durante el sprint.
+
+🔹 Commit 4: “Cambio desde pruebas”
+
+🗂 Rama: pruebas
+📅 Actividad Scrum: Sprint Testing
+
+Descripción:
+Se modifica la misma línea del archivo a propósito para generar un conflicto.
+Esto simula un ciclo real de prueba y revisión.
+
+🔹 Commit 5: “Conflicto resuelto”
+
+🗂 Rama: desarrollo
+📅 Actividad Scrum: Sprint Review / Sprint Retrospective
+
+Descripción:
+Se resolvió manualmente un conflicto entre ramas, demostrando el trabajo colaborativo y el entendimiento del historial de cambios.
+
+🔹 Commit 6: “Agrego documentación de metodología Scrum”
+
+🗂 Rama: documentacion
+📅 Actividad Scrum: Documentación del incremento
+
+Descripción:
+Se crea un archivo .md con la explicación de roles, entregables y fases de Scrum aplicadas al proyecto.
+En Scrum la documentación es necesaria pero ligera.
+
+🔹 Commit 7: “Agrego documentación del modelo híbrido cascada + scrum”
+
+🗂 Rama: modelo_hibrido
+📅 Actividad Scrum: Sprint Backlog Refinement
+
+Descripción:
+Se documenta un modelo híbrido integrando cascada y Scrum, enriqueciendo la planificación del proyecto.
+
+📈 3. Cómo Git ayuda a monitorear el proyecto
+
+Git no solo controla versiones; también:
+
+✅ Ayuda a visualizar el progreso
+
+Con git log o en GitHub puedes ver cómo el proyecto avanza commit por commit.
+
+✅ Muestra claramente quién hizo cada cambio y por qué
+
+Los mensajes de commit funcionan como mini-reportes.
+
+✅ Permite rastrear decisiones importantes
+
+Por ejemplo, cuando resolviste un conflicto, quedó documentado como parte del proceso.
+
+✅ Estructura el trabajo según las fases de Scrum
+
+Cada rama representa un área:
+
+main → versión estable
+
+desarrollo → sprint development
+
+pruebas → testing
+
+documentacion → documentación del sprint
+
+modelo_hibrido → planificación extendida
+
+🧾 4. Conclusión
+
+El uso de Git permitió:
+
+Controlar el avance del proyecto paso a paso
+
+Organizar el trabajo de acuerdo con Scrum
+
+Documentar decisiones y problemas (como resolver conflictos)
+
+Mantener versiones separadas para desarrollo, pruebas y documentación
+
+Crear registros que sirven como evidencia para la clase
+
+Git no solo guarda código, sino que funciona como un historial detallado del proyecto y como herramienta profesional para la gestión del desarrollo.
